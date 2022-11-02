@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omer
-- 👀 I’m interested in catastrophe risk analysis, financial markets and investing.
+- 👀 I’m interested in catastrophe risk analysis, economics, finance, and investing.
 - 🌱 I’m currently learning C++ and full-stack web app development basics
 - 💞️ I’m looking to collaborate on ...
 - 📫 E-mail: odabasi.omer@gmail.com
