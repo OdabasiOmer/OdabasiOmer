@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Omer. I have a PhD in structural/earthquake engineering and I'm currently a project manager at a catastrophe risk modelling, analtsis, and consultancy office
-- 👀 I’m interested in catastrophe risk analysis, economics, finance, and investing.
+- 👋 Hi, I’m Omer. I have a PhD in structural/earthquake engineering and I work as a catastrophe risk specialist
 - 🌱 I’m currently learning C++ and full-stack web app development with React + Flask
 - 📫 E-mail: odabasi.omer@gmail.com & omer.odabasi@redrisk.com
 -  Website: www.omerodabasi.com
