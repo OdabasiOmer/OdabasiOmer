@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Omer. I have a PhD in structural/earthquake engineering and I work as a catastrophe risk specialist
-- 🌱 I’m currently learning C++ and full-stack web app development with React + Flask
+- 👋 Hi, I’m Omer. I'm a structural engineer with a PhD in earthquake engineering. I currently work as a catastrophe risk specialist
+- 🌱 I mostly use Python and C++ in my programming practices
 - 📫 E-mail: odabasi.omer@gmail.com & omer.odabasi@redrisk.com
--  Website: www.omerodabasi.com
+- ✨ Website: www.omerodabasi.com
 
 <!---
 OdabasiOmer/OdabasiOmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
