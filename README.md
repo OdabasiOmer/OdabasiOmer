@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Omer. I'm a structural engineer with a PhD in earthquake engineering. I currently work as a catastrophe risk specialist
-- 🌱 I mostly use Python and C++ in my programming practices
+- I'm a structural engineer with a PhD in earthquake engineering. I code catastrophe risk modelling and analysis software
+- I mostly use Python and C++ in my coding
 - 📫 E-mail: odabasi.omer@gmail.com & omer.odabasi@redrisk.com
 - ✨ Website: www.omerodabasi.com
 
